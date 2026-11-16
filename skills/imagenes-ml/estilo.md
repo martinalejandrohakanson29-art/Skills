@@ -1,5 +1,7 @@
 # Estilo visual — Revolución Motos
 
+> `generar.mjs` implementa este estilo tal cual (colores, tipografías Anton/Montserrat, tarjetas, franja, logo). Si se cambia algo acá, cambiarlo también en el script.
+
 Objetivo: verse profesional y "de taller serio", coherente con el logo de la tienda, y leerse bien en una
 miniatura de celular. La competencia también usa rojo: nos diferenciamos por el layout (fondo grafito, tarjetas
 oscuras con borde, badges numerados, logo fijo), no por el color.
