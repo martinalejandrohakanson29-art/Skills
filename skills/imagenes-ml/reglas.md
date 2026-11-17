@@ -10,11 +10,13 @@
 - Cuadradas, 1200×1200 recomendado, JPG/PNG.
 - No usar logos de marcas de motos (Honda, Yamaha, etc.) ni fotos de motos reales de catálogo: la compatibilidad
   va escrita, y si se quiere un dibujo, una silueta genérica de moto sin marca.
+- Portada SIN motos (aunque la competencia las ponga): ML lo marca como elemento que no se entrega.
 - Opiniones: sólo reseñas reales de nuestra publicación. Nunca inventar ni "mejorar" reseñas.
 
 ## Reescritura de info de la competencia
 
-La meta es usar la INFORMACIÓN, no el texto ni el diseño.
+La meta es usar su INFORMACIÓN y su DISEÑO como referencia (estructura, luz, estilo de títulos y tarjetas),
+nunca su producto, su caja, su marca ni sus frases. Le sumamos lo nuestro: color #FF3333, fondo grafito y logo.
 
 1. **Extraer hechos primero**: pasar sus imágenes a una lista de datos sueltos
    ("no requiere modificar el pistón", "compatible CG Titan 150 y XR 150", "ideal kit 190 cc").
@@ -26,6 +28,6 @@ La meta es usar la INFORMACIÓN, no el texto ni el diseño.
 5. **Verificar**: todo dato técnico que no podamos confirmar (años, resortes, cc, luz de válvulas) se marca
    `⚠ A VERIFICAR` en la ficha. Si la competencia se equivoca, el error pasa a ser nuestro.
 6. **Compatibilidades**: los modelos se pueden tomar tal cual (son datos), pero presentados con nuestro formato.
-7. Nunca copiar sus fotos, slogans, sellos ("calidad racing", "garantía X") ni el nombre de su tienda.
+7. Nunca usar sus fotos como producto ni copiar sus slogans, sellos ("calidad racing", "garantía X") ni el nombre de su tienda.
 
 Prueba rápida: si alguien pone las dos imágenes lado a lado, no debería encontrar ninguna frase igual.

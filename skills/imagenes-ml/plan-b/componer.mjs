@@ -57,7 +57,7 @@ export async function componer({ dir, escenas = dir, rotar = 0, rotarPortada = 0
 
   const out = path.join(dir, 'final');
   fs.mkdirSync(out, { recursive: true });
-  const logo = await sharp(path.join(HERE, 'logo.png')).resize({ width: LOGO_W }).png().toBuffer();
+  const logo = await sharp(path.join(HERE, '..', 'logo.png')).resize({ width: LOGO_W }).png().toBuffer();
   const { height: logoH } = await sharp(logo).metadata();
   const hechos = [];
 

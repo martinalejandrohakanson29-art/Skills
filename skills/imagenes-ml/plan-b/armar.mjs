@@ -1,5 +1,5 @@
 // Arma las finales a partir de escenas generadas por OTRA IA (ChatGPT/Gemini) con el hueco vacío.
-// (Si las escenas las dibuja la skill, usar generar.mjs, que ya hace todo.)
+// Las escenas vienen de ChatGPT/Gemini con el hueco vacío (ver plantillas.md, "Opción B").
 // Uso: node armar.mjs <carpeta-producto> [--rotar 0] [--rotar-portada 0] [--escala 1]
 //   --rotar: giro (grados, + = horario) del producto en 2-5 para que quede parado en la zona alta y angosta.
 //   --rotar-portada: giro en la portada (normalmente 0: la foto tal cual).
